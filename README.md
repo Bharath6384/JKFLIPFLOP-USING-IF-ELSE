@@ -1,4 +1,4 @@
-### Name : Aswin.M
+### Name : Bharath.S
 ### Register No : 24900654
 # EXPERIMENT NO 7 : JK FLIP-FLOP 
 
